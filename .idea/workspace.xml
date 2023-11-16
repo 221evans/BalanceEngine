@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45103c70-7fb0-4f18-b3b0-35880711bf4b" name="Changes" comment="Added window pop up" />
+    <list default="true" id="45103c70-7fb0-4f18-b3b0-35880711bf4b" name="Changes" comment="Added window pop up">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700159167424</updated>
-      <workItem from="1700159168473" duration="2128000" />
+      <workItem from="1700159168473" duration="2498000" />
     </task>
     <task id="LOCAL-00001" summary="Added window pop up">
       <option name="closed" value="true" />
@@ -74,7 +76,31 @@
       <option name="project" value="LOCAL" />
       <updated>1700161090778</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added window pop up">
+      <option name="closed" value="true" />
+      <created>1700161433998</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700161433998</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added window pop up">
+      <option name="closed" value="true" />
+      <created>1700161443470</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700161443470</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added window pop up">
+      <option name="closed" value="true" />
+      <created>1700161486741</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700161486741</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

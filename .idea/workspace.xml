@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45103c70-7fb0-4f18-b3b0-35880711bf4b" name="Changes" comment="Added window pop up">
+    <list default="true" id="45103c70-7fb0-4f18-b3b0-35880711bf4b" name="Changes" comment="Test for discord">
+      <change afterPath="$PROJECT_DIR$/src/main/java/balance/KeyListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/balance/MouseListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jade/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/balance/Window.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +25,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "221evans"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="777026c2-f0c1-4cda-9d92-e388602ced9a" />
+        <option name="url" value="https://github.com/221evans/BalanceEngine.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
@@ -66,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700159167424</updated>
-      <workItem from="1700159168473" duration="2498000" />
+      <workItem from="1700159168473" duration="8892000" />
     </task>
     <task id="LOCAL-00001" summary="Added window pop up">
       <option name="closed" value="true" />
@@ -100,7 +118,39 @@
       <option name="project" value="LOCAL" />
       <updated>1700161486741</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Test for discord">
+      <option name="closed" value="true" />
+      <created>1700161683305</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700161683305</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Test for discord">
+      <option name="closed" value="true" />
+      <created>1700161939438</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700161939438</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Test for discord">
+      <option name="closed" value="true" />
+      <created>1700162166092</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1700162166092</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Test for discord">
+      <option name="closed" value="true" />
+      <created>1700162192627</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1700162192627</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +158,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added window pop up" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added window pop up" />
+    <MESSAGE value="Test for discord" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test for discord" />
   </component>
 </project>
